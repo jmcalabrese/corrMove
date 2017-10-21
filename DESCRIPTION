@@ -3,7 +3,7 @@ Type: Package
 Title: Analyze Correlated Movements in Multi-Individual Datasets
 Version: 0.1.0
 Author: Justin M. Calabrese and Chris H. Fleming
-Maintainer: Justin M. Calabrese
+Maintainer: Justin M. Calabrese <CalabreseJ@si.edu>
 Description: Functions for estimating cross-correlated drift and diffusion in
     multi-individual animal tracking datasets.
 License: GPL-3
